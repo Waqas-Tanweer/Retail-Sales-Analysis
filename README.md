@@ -15,7 +15,7 @@ This project analyzes retail sales data using SQL and Power BI to uncover busine
 - Some sub-categories show negative profit
 
 ## 📷 Dashboard Preview
-![Dashboard](powerbi_dashboard.png)
+![Dashboard](dashboard/powerbi_dashboard.png)
 
 ## 📁 Files Included
 - Dataset (CSV)
